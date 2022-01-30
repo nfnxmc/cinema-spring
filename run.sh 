@@ -1,0 +1,5 @@
+#!/bin/bash
+mvn clean install && mvn install 
+mvn package
+sudo docker build -t cinema .
+sudo docker run -p 8080:8080 cinema
