@@ -1,4 +1,4 @@
-package com.mnc.cinema.comment.model;
+package com.mnc.cinema.models.comment;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

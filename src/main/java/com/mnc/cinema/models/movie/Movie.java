@@ -1,4 +1,4 @@
-package com.mnc.cinema.movie.model;
+package com.mnc.cinema.models.movie;
 
 import java.time.OffsetDateTime;
 import java.util.Objects;

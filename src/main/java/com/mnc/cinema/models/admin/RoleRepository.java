@@ -1,4 +1,4 @@
-package com.mnc.cinema.admin.model;
+package com.mnc.cinema.models.admin;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
